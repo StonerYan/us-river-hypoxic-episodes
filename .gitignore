@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+data/era5_hourly_cells/
+data/derived/era5_daily_plus.parquet
+*.tmp
